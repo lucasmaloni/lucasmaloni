@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Lucas,</h1>
-<h3 align="center"> I'm a Computer Engineering student at the University of Pernambuco (UPE). I'm currently focusing my studies on backend development. So far, I have managed to learn and develop skills in Java, Python and primarily C.</h3>
+<h3 align="center">I'm a Computer Engineering student at the University of Pernambuco (UPE). I'm currently focusing my studies on backend development. So far, I have managed to learn and develop skills in Java, Python and primarily C.</h3>
 
 - 🌱 I’m currently learning **Java and getting deeper knowledge in C.**
 
