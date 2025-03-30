@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Lucas,</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of Pernambuco (UPE). I'm currently focusing my studies on backend development. So far, I have managed to learn and develop skills in Java, Python. Also developed a few college projects involving OOP, and fell in love with it.</h3>
 
-- 🌱 I’m currently learning and developing **a Space Invaders Game** to improve my coding and logic skills.
+- 🌱 I’m currently learning about Data Structures and developing **a Space Invaders Game** to improve my coding and logic skills.
 
 - 📫 How to reach me: **l.maloni.c@gmail.com**
 
